@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+playwright
+anthropic
+pydantic
+python-dotenv
+pandas
+httpx
